@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nagamani Buddepu  
 
-🎓 3rd Year Undergraduate in Data Science  
+🎓 Final Year Undergraduate in Data Science  
 💻 Aspiring Software Engineer | Web Developer  
 🚀 Passionate about building impactful tech projects  
 
